@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Clipboard.dll",
+  "latest": "1774637422-E92BA24509804DEA8495C9E3F0F0036F-1",
+  "builds": [
+    {
+      "key": "1774637422-E92BA24509804DEA8495C9E3F0F0036F-1",
+      "timestamp": "1774637422",
+      "pdb_guid": "E92BA24509804DEA8495C9E3F0F0036F",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1774637422-E92BA24509804DEA8495C9E3F0F0036F-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
